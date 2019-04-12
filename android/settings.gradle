@@ -1,0 +1,3 @@
+rootProject.name = 'subways_2205'
+
+include ':app'
